@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC  -Wall -Wextra -shared -Wl,-soname,lib2.so -o lib2.so CMakeFiles/lib2.dir/src/lib2.c.o  -lm 

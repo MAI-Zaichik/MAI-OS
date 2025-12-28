@@ -1,0 +1,6 @@
+/home/atom/OS/laba4/build/CMakeFiles/lib1.dir
+/home/atom/OS/laba4/build/CMakeFiles/lib2.dir
+/home/atom/OS/laba4/build/CMakeFiles/prog1.dir
+/home/atom/OS/laba4/build/CMakeFiles/prog2.dir
+/home/atom/OS/laba4/build/CMakeFiles/edit_cache.dir
+/home/atom/OS/laba4/build/CMakeFiles/rebuild_cache.dir

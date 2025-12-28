@@ -1,0 +1,3 @@
+/home/atom/OS/laba2/build/CMakeFiles/main.dir
+/home/atom/OS/laba2/build/CMakeFiles/edit_cache.dir
+/home/atom/OS/laba2/build/CMakeFiles/rebuild_cache.dir

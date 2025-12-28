@@ -1,0 +1,4 @@
+/home/atom/OS/laba3/build/CMakeFiles/child.dir
+/home/atom/OS/laba3/build/CMakeFiles/main.dir
+/home/atom/OS/laba3/build/CMakeFiles/edit_cache.dir
+/home/atom/OS/laba3/build/CMakeFiles/rebuild_cache.dir

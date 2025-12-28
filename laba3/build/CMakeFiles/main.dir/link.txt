@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.dir/src/parent.c.o -o main  -lrt -lpthread 

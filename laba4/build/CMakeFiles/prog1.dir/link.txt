@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/prog1.dir/src/programm1.c.o -o prog1  -Wl,-rpath,/home/atom/OS/laba4/build lib1.so -lm 

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Wall -Wextra CMakeFiles/prog2.dir/src/programm2.c.o -o prog2  -ldl 
