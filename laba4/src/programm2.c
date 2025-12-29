@@ -95,7 +95,6 @@ void command_2(sort_func_t sort_func) {
     int array[100];
     size_t count = 0;
     
-    // Читаем все числа до конца строки
     while ((token = strtok(NULL, " \t\n")) != NULL && count < 100) {
         array[count++] = atoi(token);
     }
